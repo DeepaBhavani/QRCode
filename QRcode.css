@@ -37,5 +37,7 @@ img{
 }
 h1{
     display:none;
+    visibility:hidden;
 }
+
 
